@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CollapsingToolbar &amp; Tab Demo</string>
+    <string name="tab_text_1">First Fragment</string>
+    <string name="tab_text_2">Second Fragment</string>
+    <string name="title_activity_scrolling">@string/app_name</string>
+    <string name="action_settings">Settings</string>
+</resources>
